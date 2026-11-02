@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_hw2_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="\$unit_uBee_alu_sv_3178930047 " />
+            <top_module name="glbl" />
+            <top_module name="tb_hw2" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="245031000000 ps"></ZoomStartTime>
+      <ZoomEndTime time="245068000000 ps"></ZoomEndTime>
+      <Cursor1Time time="245031000000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="282"></NameColumnWidth>
+      <ValueColumnWidth column_width="213"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject type="divider" fp_name="divider18">
+      <obj_property name="label">Testbench</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/cfg" type="array">
+      <obj_property name="ElementShortName">cfg[31:0]</obj_property>
+      <obj_property name="ObjectShortName">cfg[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/uart_tx" type="logic">
+      <obj_property name="ElementShortName">uart_tx</obj_property>
+      <obj_property name="ObjectShortName">uart_tx</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider21">
+      <obj_property name="label">evt_gen (PL)</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/fire" type="logic">
+      <obj_property name="ElementShortName">fire</obj_property>
+      <obj_property name="ObjectShortName">fire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/pending" type="logic">
+      <obj_property name="ElementShortName">pending</obj_property>
+      <obj_property name="ObjectShortName">pending</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/ack" type="logic">
+      <obj_property name="ElementShortName">ack</obj_property>
+      <obj_property name="ObjectShortName">ack</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/irq_vec_o" type="array">
+      <obj_property name="ElementShortName">irq_vec_o[15:0]</obj_property>
+      <obj_property name="ObjectShortName">irq_vec_o[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/lat_now" type="array">
+      <obj_property name="ElementShortName">lat_now[31:0]</obj_property>
+      <obj_property name="ObjectShortName">lat_now[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/evt_cnt" type="array">
+      <obj_property name="ElementShortName">evt_cnt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">evt_cnt[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/ack_cnt" type="array">
+      <obj_property name="ElementShortName">ack_cnt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ack_cnt[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/evt_gen_0/inst/miss_cnt" type="array">
+      <obj_property name="ElementShortName">miss_cnt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">miss_cnt[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject type="divider" fp_name="divider30">
+      <obj_property name="label">uBee CPU</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/uBee_soc_0/trace_trap_o" type="logic">
+      <obj_property name="ElementShortName">trace_trap_o</obj_property>
+      <obj_property name="ObjectShortName">trace_trap_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/uBee_soc_0/trace_cause_o" type="array">
+      <obj_property name="ElementShortName">trace_cause_o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">trace_cause_o[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_hw2/dut/hw2_system_i/uBee_soc_0/dbg_csr_mcause_o" type="array">
+      <obj_property name="ElementShortName">dbg_csr_mcause_o[31:0]</obj_property>
+      <obj_property name="ObjectShortName">dbg_csr_mcause_o[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,24 @@
+# build output
+build/
+obj_dir/
+__pycache__/
+*.pyc
+
+# Vivado
+*.jou
+*.log
+*.str
+*.wdb
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+*.xpr
+
+# OS
+.DS_Store
+Thumbs.db

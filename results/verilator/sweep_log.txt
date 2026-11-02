@@ -1,0 +1,1179 @@
+
+===== Experiment 0, cfg = 00000000, t = 0 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:0,0,3146593,1342751,0,91356,30451,0,0,0,0,0,0,3,0
+END
+===== Experiment 1, cfg = 80000000, t = 34204 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:8,0,3146565,1356522,0,3,33015,0,0,0,0,0,0,3,0
+END
+===== Experiment 2, cfg = 90000000, t = 68235 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:9,0,3146593,1348047,0,3,1501,0,0,0,0,0,0,3,0
+END
+===== Experiment 3, cfg = 40000032, t = 102222 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,50,3146626,1378133,0,144762,24127,62932,24126,38805,2517095,142,24126,3,3146637
+END
+===== Experiment 4, cfg = c0000032, t = 137816 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,50,3148161,1179683,62962,188889,1060,62965,62965,0,1215456,24,62965,3,3148465
+END
+===== Experiment 5, cfg = 4000003c, t = 173383 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,60,3146626,1378133,0,144762,24127,52443,24126,28316,2396565,142,24126,3,3146637
+END
+===== Experiment 6, cfg = c000003c, t = 208976 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,60,3146947,1156153,52448,157347,5102,52449,52448,0,1121104,23,52448,3,3147093
+END
+===== Experiment 7, cfg = 40000046, t = 244530 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,70,3146626,1378133,0,144762,24127,44951,24126,20824,2276275,142,24126,3,3146637
+END
+===== Experiment 8, cfg = c0000046, t = 280123 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,70,3146719,1180592,44952,134859,8989,44953,44953,0,957746,25,44953,3,3146926
+END
+===== Experiment 9, cfg = 40000050, t = 315632 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,80,3146626,1378133,0,144762,24127,39332,24126,15205,2155045,142,24126,3,3146637
+END
+===== Experiment 10, cfg = c0000050, t = 351225 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,80,3146794,1205584,39334,118005,12065,39334,39334,0,841751,24,39334,3,3146933
+END
+===== Experiment 11, cfg = 4000005a, t = 386777 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,90,3146626,1378133,0,144762,24127,34962,24126,10835,2034525,142,24126,3,3146637
+END
+===== Experiment 12, cfg = c000005a, t = 422371 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,90,3146758,1221411,34963,104892,14370,34963,34963,0,747319,23,34963,3,3146882
+END
+===== Experiment 13, cfg = 40000064, t = 457923 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,100,3146626,1378133,0,144762,24127,31466,24126,7339,1913645,142,24126,3,3146637
+END
+===== Experiment 14, cfg = c0000064, t = 493516 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,100,3146678,1236365,31466,94401,16270,31466,31466,0,671750,24,31466,3,3146813
+END
+===== Experiment 15, cfg = 40000078, t = 529067 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,120,3146626,1378133,0,144762,24127,26221,24126,2094,1672725,142,24126,3,3146637
+END
+===== Experiment 16, cfg = c0000078, t = 564660 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,120,3146643,1255156,26221,78666,19031,26222,26221,0,558301,23,26221,3,3146733
+END
+===== Experiment 17, cfg = 4000008c, t = 600211 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,140,3146592,1373949,0,140985,24520,22475,22474,0,1396597,130,22474,3,3146603
+END
+===== Experiment 18, cfg = c000008c, t = 635674 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,140,3146619,1269605,22475,67428,21028,22475,22475,0,480535,23,22475,3,3146712
+END
+===== Experiment 19, cfg = 400000aa, t = 671224 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,170,3146562,1363927,0,131919,25464,18509,18508,0,1150768,128,18508,3,3146573
+END
+===== Experiment 20, cfg = c00000aa, t = 706687 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,170,3146639,1284727,18509,55530,23138,18509,18509,0,399336,23,18509,3,3146743
+END
+===== Experiment 21, cfg = 400000c8, t = 742237 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,200,3146571,1356923,0,125574,26125,15732,15732,0,942561,123,15732,3,3146582
+END
+===== Experiment 22, cfg = c00000c8, t = 777656 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,200,3146573,1295667,15732,47199,24624,15732,15732,0,337701,23,15732,3,3146613
+END
+===== Experiment 23, cfg = 400000fa, t = 813206 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,250,3146567,1345052,0,118113,26785,12586,12585,0,807815,129,12585,3,3146475
+END
+===== Experiment 24, cfg = c00000fa, t = 848625 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,250,3146664,1307591,12586,37761,26296,12586,12586,0,270862,24,12586,3,3146713
+END
+===== Experiment 25, cfg = 4000012c, t = 884176 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,300,3146568,1344675,0,113655,27396,10488,10488,0,673122,129,10488,3,3146579
+END
+===== Experiment 26, cfg = c000012c, t = 919595 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,300,3146631,1316485,10488,31467,27434,10488,10488,0,222283,23,10488,3,3146611
+END
+===== Experiment 27, cfg = 4000015e, t = 955146 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,350,3146639,1344429,0,110472,27833,8990,8990,0,576124,129,8990,3,3146650
+END
+===== Experiment 28, cfg = c000015e, t = 990436 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,350,3146629,1321542,8990,26973,28215,8990,8990,0,192005,23,8990,3,3146713
+END
+===== Experiment 29, cfg = 40000190, t = 1025813 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,400,3146600,1344205,0,108081,28160,7866,7866,0,504984,129,7866,3,3146611
+END
+===== Experiment 30, cfg = c0000190, t = 1061102 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,400,3146633,1327099,7866,23601,28844,7866,7866,0,165238,23,7866,3,3146613
+END
+===== Experiment 31, cfg = 400001f4, t = 1096479 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,500,3146554,1343895,0,104733,28618,6293,6292,0,404086,129,6292,3,3146153
+END
+===== Experiment 32, cfg = c00001f4, t = 1131768 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,500,3146640,1332569,6293,18882,29668,6293,6293,0,133855,23,6293,3,3146712
+END
+===== Experiment 33, cfg = 4000028a, t = 1167145 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,650,3146563,1343631,0,101646,29041,4840,4840,0,320865,127,4840,3,3146162
+END
+===== Experiment 34, cfg = c000028a, t = 1202434 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,650,3146629,1337534,4840,14523,30427,4840,4840,0,103589,23,4840,3,3146213
+END
+===== Experiment 35, cfg = 40000320, t = 1237810 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,800,3146648,1343500,0,99720,29306,3933,3933,0,252307,129,3933,3,3146556
+END
+===== Experiment 36, cfg = c0000320, t = 1273057 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,800,3146614,1341749,3933,11802,30928,3933,3933,0,83934,23,3933,3,3146612
+END
+===== Experiment 37, cfg = 400003e8, t = 1308390 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,1000,3146625,1343345,0,98046,29535,3146,3146,0,201654,128,3146,3,3146224
+END
+===== Experiment 38, cfg = c00003e8, t = 1343680 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,1000,3146611,1344352,3146,9441,31337,3146,3146,0,67068,23,3146,3,3146211
+END
+===== Experiment 39, cfg = 400005dc, t = 1379013 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,1500,3146570,1343128,0,95814,29840,2097,2097,0,134111,129,2097,3,3145654
+END
+===== Experiment 40, cfg = c00005dc, t = 1414302 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,1500,3146561,1348594,2097,6294,31901,2097,2097,0,44520,23,2097,3,3145713
+END
+===== Experiment 41, cfg = 400007d0, t = 1449635 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,2000,3146609,1343048,0,94701,29993,1573,1573,0,101089,127,1573,3,3146208
+END
+===== Experiment 42, cfg = c00007d0, t = 1484924 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,2000,3146567,1350601,1573,4722,32180,1573,1573,0,33222,23,1573,3,3146212
+END
+===== Experiment 43, cfg = 40000bb8, t = 1520257 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,3000,3146618,1342955,0,93585,30146,1048,1048,0,67427,128,1048,3,3144157
+END
+===== Experiment 44, cfg = c0000bb8, t = 1555503 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,3000,3146594,1352549,1048,3147,32458,1048,1048,0,22335,23,1048,3,3144212
+END
+===== Experiment 45, cfg = 40001388, t = 1590836 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,5000,3146614,1342876,0,92694,30268,629,629,0,40579,128,629,3,3145183
+END
+===== Experiment 46, cfg = c0001388, t = 1625952 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,5000,3146599,1354150,629,1890,32681,629,629,0,13344,23,629,3,3145210
+END
+===== Experiment 47, cfg = 40002710, t = 1661112 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,10000,3146640,1342829,0,92025,30360,314,314,0,20125,125,314,3,3140162
+END
+===== Experiment 48, cfg = c0002710, t = 1696271 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,10000,3146575,1355327,314,945,32848,314,314,0,6674,23,314,3,3140212
+END
+===== Experiment 49, cfg = 40004e20, t = 1731387 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:4,20000,3146565,1342768,0,91689,30405,157,157,0,9819,114,157,3,3140190
+END
+===== Experiment 50, cfg = c0004e20, t = 1766502 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:12,20000,3146633,1355945,157,474,32932,157,157,0,3350,23,157,3,3140213
+END
+===== Experiment 51, cfg = e0000078, t = 1801619 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,120,3146876,1223186,26223,78672,8017,26223,26223,0,1060763,43,26223,3,3146993
+END
+===== Experiment 52, cfg = e000008c, t = 1837172 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,140,3146632,1242698,22475,67428,11601,22475,22475,0,908355,42,22475,3,3146732
+END
+===== Experiment 53, cfg = e00000aa, t = 1872722 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,170,3146817,1261638,18510,55533,15351,18510,18510,0,747152,42,18510,3,3146932
+END
+===== Experiment 54, cfg = e00000c8, t = 1908275 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,200,3146607,1275590,15732,47199,17995,15733,15732,0,634656,43,15732,3,3146633
+END
+===== Experiment 55, cfg = e00000fa, t = 1943825 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,250,3146639,1291462,12586,37761,20991,12586,12586,0,508600,42,12586,3,3146732
+END
+===== Experiment 56, cfg = e000012c, t = 1979376 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,300,3146553,1302581,10488,31467,23002,10488,10488,0,422339,42,10488,3,3146632
+END
+===== Experiment 57, cfg = e0000190, t = 2014926 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,400,3146597,1316712,7866,23601,25521,7866,7866,0,318085,42,7866,3,3146632
+END
+===== Experiment 58, cfg = e00001f4, t = 2050302 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,500,3146656,1324361,6293,18882,27012,6293,6293,0,254144,42,6293,3,3146733
+END
+===== Experiment 59, cfg = e00003e8, t = 2085679 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,1000,3146631,1340486,3146,9441,30015,3146,3146,0,127632,42,3146,3,3146233
+END
+===== Experiment 60, cfg = e00007d0, t = 2121056 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,2000,3146633,1348545,1573,4722,31516,1573,1573,0,63531,42,1573,3,3146233
+END
+===== Experiment 61, cfg = e0001388, t = 2156390 us =====
+A TALE OF TWO CITIES
+by Charles Dickens
+
+Book the First--Recalled to Life
+Chapter I. The Period
+
+It was the best of times, it was the worst of times, it was the age
+of wisdom, it was the age of foolishness, it was the epoch of belief,
+it was the epoch of incredulity, it was the season of Light, it was
+the season of Darkness, it was the spring of hope, it was the winter
+of despair, we had everything before us, we had nothing before us, we
+were all going direct to Heaven, we were all going direct the other
+way--in short, the period was so far like the present period, that
+some of its noisiest authorities insisted on its being received, for
+good or for evil, in the superlative degree of comparison only.
+
+RESULT:14,5000,3146618,1353308,629,1890,32415,629,629,0,25420,42,629,3,3145232
+END

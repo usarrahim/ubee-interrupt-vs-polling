@@ -1,0 +1,46 @@
+name: reproduce
+
+# Rebuilds everything that does not need Vivado:
+#   1. assembles sw/hw2.s with the course rv32 tool and checks the committed .mem files
+#   2. runs the 19 experiments of sim/tb_hw2.sv with Verilator
+#   3. checks that every counter is identical to the Vivado XSim run in results/vivado
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y verilator ninja-build cmake g++ python3
+
+      - name: Get uBee (GSTL-ITU)
+        run: git clone --depth 1 https://github.com/GSTL-ITU/uBee.git "$RUNNER_TEMP/uBee"
+
+      - name: Build the course rv32 assembler
+        run: |
+          cmake -S "$RUNNER_TEMP/uBee/Emulator/rv32_emulator-main" -B "$RUNNER_TEMP/rv32" -G Ninja -DCMAKE_BUILD_TYPE=Release
+          cmake --build "$RUNNER_TEMP/rv32" --target rv32
+
+      - name: Assemble hw2.s and compare the memory images
+        run: RV32="$RUNNER_TEMP/rv32/rv32" ./sw/build.sh check
+
+      - name: Run the 19 experiments with Verilator
+        run: ./verilator/run_tb.sh "$RUNNER_TEMP/uBee" build/verilator_tb
+
+      - name: Compare with the Vivado XSim results
+        run: python3 analysis/compare_sims.py results/vivado/sim_log.txt build/verilator_tb/sim_log.txt
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: verilator-log
+          path: build/verilator_tb/sim_log.txt
